@@ -1,4 +1,4 @@
-# Employee Onboarding Google Sheet Reort
+# Employee Onboarding Google Sheet Report
 
 ## Problem Statement
 
