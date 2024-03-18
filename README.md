@@ -1,5 +1,7 @@
 # Employee Onboarding Google Sheet Report
 
+Google Sheet Link: https://docs.google.com/spreadsheets/d/13ohXmVvUx1CZ6MJW7VENCmQhJNR9OkTFqUG596YsBnY/edit?usp=sharing
+
 ## Problem Statement
 
 The task is to work on an employee onboarding dataset to clean, format, analyse, and derive actionable insights.
